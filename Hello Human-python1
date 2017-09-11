@@ -1,0 +1,6 @@
+#Copyright 2017 Yinzhu SU yzsu@bu.edu
+#Homework1-EC601-A1
+#Hello Human-python1
+
+import sys
+print("Hello Human, this is World speaking!\n")

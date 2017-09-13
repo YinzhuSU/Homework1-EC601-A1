@@ -1,0 +1,10 @@
+#Copyright 2017 Yinzhu SU yzsu@bu.edu
+#Homework1-EC601-A1
+#Hello Human-python1
+
+import sys
+print("Hello Human, this is World speaking!\n")
+
+print("Today we don't have EC601 class, but we still worked hard on this project!\n")
+
+print('The term "merge" really confuses us!\n')

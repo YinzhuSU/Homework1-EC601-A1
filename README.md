@@ -4,6 +4,7 @@ objective:
 1. practice branch
 2. practice merge
 3. commits
+4. solve conflicts
 
 methods:
 using python to print "HelloWorld!"

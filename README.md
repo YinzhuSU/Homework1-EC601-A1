@@ -5,6 +5,7 @@ objective:
 2. practice merge
 3. commits
 4. solve conflicts
+5. find out how to make more contribution
 
 methods:
 using python to print "HelloWorld!"

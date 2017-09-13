@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void PrintResults(int [], int);//indicate the subfunction
-
 void PrintResults(int counts[], int total)//Given output function
 {
     int i;

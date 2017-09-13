@@ -4,3 +4,5 @@
 
 import sys
 print("Hello Human, this is World speaking!\n")
+
+print("Today we don't have EC601 class, but we still worked hard on this project!\n")

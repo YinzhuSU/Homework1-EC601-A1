@@ -8,3 +8,6 @@ practice to create a branch other than master branch.
 
 #=======
 #>>>>>>> master
+
+print("I print the # to solve the conflict.")
+print("So that we can merge them together.")

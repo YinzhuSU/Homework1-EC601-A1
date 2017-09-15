@@ -1,1 +1,4 @@
 print('Hello','world')
+#<<<<<<< elloWorld
+print('Hi world!')
+#>>>>>>> master

@@ -8,3 +8,5 @@ print("Hello Human, this is World speaking!\n")
 print("Today we don't have EC601 class, but we still worked hard on this project!\n")
 
 print('The term "merge" really confuses us!\n')
+
+print('By now we have finish our homework.\n')
